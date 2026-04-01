@@ -1,0 +1,13 @@
+pyspark
+pandas
+numpy
+matplotlib
+
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+
+openai
+requests

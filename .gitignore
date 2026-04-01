@@ -1,0 +1,14 @@
+data/
+*.parquet
+docs/
+chroma_*/
+
+pycache/
+*.pyc
+
+.env
+
+.ipynb_checkpoints/
+
+
+.DS_Store
